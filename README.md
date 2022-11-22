@@ -5,10 +5,10 @@ Se presentan las prácticas propuestas por el profesor para la clase del día ju
 <h1>Projects for junior Python developers</h2>
 Here are some beginner-friendly projects for you to work on:
 
-Odd or even
-Mad Libs Game
-Word Count
-Biography info
+<ol>Odd or even
+  <li>Mad Libs Game</li>
+  <li>Word Count</li>
+  <li>Biography info</li>
 What's my acronym?
 Rock, Paper, Scissors
 Guess the number
