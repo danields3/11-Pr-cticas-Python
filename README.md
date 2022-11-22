@@ -5,14 +5,16 @@ Se presentan las prácticas propuestas por el profesor para la clase del día ju
 <h1>Projects for junior Python developers</h2>
 Here are some beginner-friendly projects for you to work on:
 
-<ul>Odd or even
-Mad Libs Game
-Word Count
-Biography info
-What's my acronym?
-Rock, Paper, Scissors
-Guess the number
-Is a palindrome
-Calculate the tip
-Email slicer
-Lyrics generator</ul>
+<ul>
+  <li>Odd or even</li>
+  <li>Mad Libs Game</li>
+  <li>Word Count</li>
+  <li>Biography info</li>
+  <li>What's my acronym?</li>
+  <li>Rock, Paper, Scissors</li>
+  <li>Guess the number</li>
+  <li>Is a palindrome</li>
+  <li>Calculate the tip</li>
+  <li>Email slicer</li>
+  <li>Lyrics generator</li>
+</ul>
